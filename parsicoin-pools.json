@@ -1,0 +1,25 @@
+{
+    "pools" : [
+        {
+            "name" : "Cryptohispano.net",
+            "url" : "https://Pars.Cryptohispano.net/",
+            "api" : "http://pars.cryptohispano.net/api/",
+            "type" : "forknote",
+            "miningAddress" : "pars.cryptohispano.net"
+        },
+        {
+            "name" : "Clevery.xyz",
+            "url" : "https://Parsicoin.Clevery.xyz/",
+            "api" : "https://parsicoin.clevery.xyz/api/",
+            "type" : "node.js",
+            "miningAddress" : "parsicoin.clevery.xyz"
+        },
+        {
+            "name" : "MiningPoolHouse.com",
+            "url" : "https://Parsicoin.MiningPoolHouse.com",
+            "api" : "http://parsicoin.miningpoolhouse.com:4006/",
+            "type" : "node.js",
+            "miningAddress" : "parsicoin.miningpoolhouse.com"
+        }
+    ]
+}

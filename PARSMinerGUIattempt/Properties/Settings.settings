@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="parsMG" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="savedPools" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="savedAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="cpuCb" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="amdCb" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="nvCb" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="gpuCb" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="cpuPerc" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="hwType" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="statsSecs" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="logCb" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="cliCb" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="poolPreference" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="minerPreference" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="xmrigCPUpath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">miners\xmrig\xmrig.exe</Value>
+    </Setting>
+    <Setting Name="xmrigAMDpath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">miners\xmrigamd\xmrig-amd.exe</Value>
+    </Setting>
+    <Setting Name="xmrigNVpath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">miners\xmrignvidia\xmrig-nvidia.exe</Value>
+    </Setting>
+    <Setting Name="xmrstakpath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">miners\xmr-stak\xmr-stak.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
