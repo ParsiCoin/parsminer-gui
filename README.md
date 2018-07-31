@@ -1,5 +1,10 @@
 # PARSMinerGUI
-One click miner GUI for xmr-stak to specifically mine ParsiCoin
+
+One click miner GUI for xmr-stak to specifically mine ParsiCoin (PARS)
+
+Based on [TurtleCoin One Click Miner](https://github.com/turtlecoin/one-click-miner)
+
+Adapted for CryptoNight_v7 Coins by ParsiCoin Devs.
 
 ## How to build
 Download the repository and extract it. Open the .sln file with a recent version of Visual Studio (Community Edition / make sure you have C# packages installed). Build the project using the green run button or "Build Solution" in the Build menu. You'll find the binaries inside the project folder in the directory `bin/debug/` or `bin/release/`. Copy `PARSMinerGUI.exe` to your preferred directory and make sure to have the miner executables in the same folder as described below.
@@ -15,12 +20,8 @@ Folder structure from where the PMG is placed:
   * xmr-stak
     * xmr-stak.exe *(alongside all other necessary files)*
 
-Credits :
+## Pool Owners
 
-Based on [TurtleCoin One Click Miner](https://github.com/turtlecoin/one-click-miner)
-
-Adapted for CryptoNight_v7 Coins by ParsiCoin Devs.
-
-Please put your Parsicoin Pool on parsicoin-pools.json and open a pull request.
+Please put your Parsicoin Pool on parsicoin-pools.json and open a pull request. or you can send an email.
 
 (PARSMinerGUI works with your pool only if you setup mining on this ports : 3333, 5555, 7777)
