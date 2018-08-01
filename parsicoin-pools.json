@@ -18,7 +18,7 @@
             "name" : "MiningPoolHouse.com",
             "url" : "https://Parsicoin.MiningPoolHouse.com",
             "api" : "http://parsicoin.miningpoolhouse.com:4006/",
-            "type" : "node.js",
+            "type" : "forknote",
             "miningAddress" : "parsicoin.miningpoolhouse.com"
         }
     ]
