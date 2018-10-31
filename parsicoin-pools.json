@@ -1,11 +1,11 @@
 {
     "pools" : [
         {
-            "name" : "Cryptohispano.net",
-            "url" : "https://Pars.Cryptohispano.net/",
-            "api" : "http://pars.cryptohispano.net/api/",
-            "type" : "forknote",
-            "miningAddress" : "pars.cryptohispano.net"
+            "name" : "ParsiCoin.Net",
+            "url" : "https://Pool.ParsiCoin.Net.net/",
+            "api" : "http://pool.parsicoin.net.net:8117/",
+            "type" : "node.js",
+            "miningAddress" : "pool.parsicoin.net"
         },
         {
             "name" : "Clevery.xyz",
@@ -13,13 +13,6 @@
             "api" : "https://parsicoin.clevery.xyz/api/",
             "type" : "node.js",
             "miningAddress" : "parsicoin.clevery.xyz"
-        },
-        {
-            "name" : "MiningPoolHouse.com",
-            "url" : "https://Parsicoin.MiningPoolHouse.com",
-            "api" : "https://parsicoin.miningpoolhouse.com:4006/",
-            "type" : "forknote",
-            "miningAddress" : "parsicoin.miningpoolhouse.com"
         }
     ]
 }
