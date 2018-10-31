@@ -2,7 +2,7 @@
     "pools" : [
         {
             "name" : "ParsiCoin.Net",
-            "url" : "https://Pool.ParsiCoin.Net.net/",
+            "url" : "http://Pool.ParsiCoin.Net.net/",
             "api" : "http://pool.parsicoin.net.net:8117/",
             "type" : "node.js",
             "miningAddress" : "pool.parsicoin.net"
