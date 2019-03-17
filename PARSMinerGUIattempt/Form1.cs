@@ -306,9 +306,9 @@ namespace parsMG
         {
             if (startBtn.Text == "Start mining!")
             {
-                if (addressRb.Checked && !addressTb.Text.StartsWith("hy") && addressTb.Text.Length != 99)
+                if (addressRb.Checked && !addressTb.Text.StartsWith("PARS") && addressTb.Text.Length != 98)
                 {
-                    MessageBox.Show("Please check your ParsiCoin receiving address.");
+                    MessageBox.Show("Please check your ParsiCoin receiving address Prefix or Length.");
                     return;
                 }
 
@@ -448,7 +448,7 @@ namespace parsMG
 
         private void linkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            MessageBox.Show("PARSMinerGUI for ParsiCoin is Based on One Click Miner for TurtleCoin programmed by Encrypted Unicorn it's a graphical interface for mining PARS on pools in the network using xmr-stak by fireice-uk. You can find the PMG's source code on ParsiCoin's GitHub and source code for the bundled miner on it's corresponding GitHub page. Not related to xmr-stak.\nVersion 1.0 beta", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("PARSMinerGUI for ParsiCoin is Based on One Click Miner for TurtleCoin programmed by Encrypted Unicorn it's a graphical interface for mining PARS on pools in the network using xmr-stak by fireice-uk. You can find the PMG's source code on ParsiCoin's GitHub and source code for the bundled miner on it's corresponding GitHub page. Not related to xmr-stak.\nVersion 1.0 ", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
         
         private void timer1_Tick(object sender, EventArgs e)

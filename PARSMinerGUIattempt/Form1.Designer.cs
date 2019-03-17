@@ -397,7 +397,7 @@
             this.addressRb.Size = new System.Drawing.Size(174, 24);
             this.addressRb.TabIndex = 3;
             this.addressRb.TabStop = true;
-            this.addressRb.Text = "Mine to address (hy...):";
+            this.addressRb.Text = "Mine to address (PARS...):";
             this.addressRb.UseVisualStyleBackColor = true;
             // 
             // gpuMiningCheck
@@ -985,7 +985,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.ShowIcon = false;
-            this.Text = "PARSMinerGUI v1 Beta";
+            this.Text = "PARSMinerGUI v1";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
