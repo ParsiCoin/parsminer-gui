@@ -1,18 +1,18 @@
 {
     "pools" : [
         {
-            "name" : "ParsiCoin.Net",
+            "name" : "parsicoin.net",
             "url" : "http://pool.parsicoin.net/",
             "api" : "http://pool.parsicoin.net:8117/",
             "type" : "forknote",
             "miningAddress" : "pool.parsicoin.net"
         },
         {
-            "name" : "Clevery.xyz",
-            "url" : "https://Parsicoin.Clevery.xyz/",
-            "api" : "https://parsicoin.clevery.xyz/api/",
+            "name" : "ms-pool.net.ua",
+            "url" : "http://pars.ms-pool.net.ua/",
+            "api" : "http://pars.ms-pool.net.ua:8117/",
             "type" : "forknote",
-            "miningAddress" : "parsicoin.clevery.xyz"
+            "miningAddress" : "pars.ms-pool.net.ua"
         }
     ]
 }
